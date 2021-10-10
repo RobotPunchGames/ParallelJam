@@ -22,4 +22,7 @@ public:
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Time)
 	float gameTimeRemaining;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = GameManager)
+	FString currentMapName;
 };

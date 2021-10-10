@@ -7,5 +7,5 @@
 AGM_DefaultMode::AGM_DefaultMode()
 {
 	gameTimeElapsed = 0.0f;
-	gameTimeRemaining = 180.0f;
+	gameTimeRemaining = 240.0f;
 }
